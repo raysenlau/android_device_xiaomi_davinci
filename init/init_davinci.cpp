@@ -58,17 +58,17 @@ constexpr const char *DEVICES[] = {
 };
 
 constexpr const char *BUILD_DESCRIPTION[] = {
-    "davinci-user 10 QKQ1.190825.002 V12.0.3.0.QFJCNXM release-keys",
-    "davinci-user 10 QKQ1.190825.002 V12.0.2.0.QFJMIXM release-keys",
-    "davinciin-user 10 QKQ1.190825.002 V12.0.0.2.QFJINXM release-keys",
+    "coral-user 10 QQ3A.200705.002 6506677 release-keys",
+    "coral-user 10 QQ3A.200705.002 6506677 release-keys",
+    "coral-user 10 QQ3A.200705.002 6506677 release-keys",
 };
 
 constexpr const char *BUILD_FINGERPRINT[] = {
-    "Xiaomi/davinci/davinci:10/QKQ1.190825.002/V12.0.3.0.QFJCNXM:user/"
+    "google/coral/coral:10/QQ3A.200705.002/6506677:user/"
     "release-keys",
-    "Xiaomi/davinci/davinci:10/QKQ1.190825.002/V12.0.2.0.QFJMIXM:user/"
+    "google/coral/coral:10/QQ3A.200705.002/6506677:user/"
     "release-keys",
-    "Xiaomi/davinciin/davinciin:10/QKQ1.190825.002/V12.0.0.2.QFJINXM:user/"
+    "google/coral/coral:10/QQ3A.200705.002/6506677:user/"
     "release-keys",
 };
 
